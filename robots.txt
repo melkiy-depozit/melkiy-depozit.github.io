@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: melkiy-depozit.github.io
+Sitemap: https://melkiy-depozit.github.io/sitemap.xml
